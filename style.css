@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background: linear-gradient(aqua, pink);
+}
+
+div {
+    margin-top: 15px;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+
+}
+
+section-style {
+    margin-right: 15px;
+    margin-left: 15px;
+    background-color: bisque
+}
+
+img {
+    height: 400px;
+    width: 400px;
+    border-style: inset;
+    border-color: black
+}
